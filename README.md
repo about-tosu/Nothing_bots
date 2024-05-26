@@ -29,3 +29,9 @@
 </p>
 
 - <b>
+
+### Developer
+
+<p align="center">
+<a href="https://telegram.me/its_damiann"><img src="https://img.shields.io/badge/-Tosu%20Bots-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
